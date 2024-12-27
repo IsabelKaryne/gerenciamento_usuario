@@ -10,7 +10,7 @@ gem "dotenv"
 # Para autenticação de senha com has_secure_password
 gem "bcrypt", "~> 3.1.7"
 # Para geração de tokens JWT
-gem "jwt", "~> 2.5"
+gem "jwt", "~> 2.10"
 # Controle de permissões
 gem "cancancan", "~> 3.3"
 
